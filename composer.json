@@ -1,0 +1,25 @@
+{
+    "name": "parfaitementweb/statamic-country-fieldtype",
+    "description": "Country dropdown with ISO 3166 options values",
+    "authors": [
+        {
+            "name": "Alexis Serneels"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Parfaitementweb\\StatamicCountryFieldtype\\": "src"
+        }
+    },
+    "extra": {
+        "statamic": {
+            "name": "Statamic Country Fieldtype",
+            "description": "Country dropdown with ISO 3166 options values"
+        },
+        "laravel": {
+            "providers": [
+                "Parfaitementweb\\StatamicCountryFieldtype\\ServiceProvider"
+            ]
+        }
+    }
+}
