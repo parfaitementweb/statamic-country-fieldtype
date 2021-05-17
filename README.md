@@ -5,7 +5,7 @@
 
 ## Features
 - Display a select field with **every ISO 639-1 language**. _tl;dr: The two-letter code._
-- Built-in **localization** in 22 languages.
+- Built-in **localization** in **70+** languages.
 - Set a **placeholder**.
 - Allow **multiple selections**.
 - Set a **maximum number of selectable items**.
